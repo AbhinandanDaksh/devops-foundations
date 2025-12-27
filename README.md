@@ -14,5 +14,6 @@
 - File execute permissions (chmod +x)
 ##Day 5
 - Processes, services, monitoring, system info script
-
+##Day 6
+-Users, groups, permissions, sudo basics
 
