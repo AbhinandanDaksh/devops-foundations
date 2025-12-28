@@ -15,5 +15,6 @@
 ##Day 5
 - Processes, services, monitoring, system info script
 ##Day 6
--Users, groups, permissions, sudo basics
-
+- Users, groups, permissions, sudo basics
+##Day 7
+- Networking basics – ping, ports, curl, site status script
