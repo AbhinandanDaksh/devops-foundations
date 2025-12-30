@@ -18,3 +18,5 @@
 - Users, groups, permissions, sudo basics
 ##Day 7
 - Networking basics – ping, ports, curl, site status script
+##Day 8 
+- Docker basics – images, containers, first run
