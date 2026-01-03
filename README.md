@@ -20,3 +20,5 @@
 - Networking basics – ping, ports, curl, site status script
 ##Day 8 
 - Docker basics – images, containers, first run
+##Day 9
+- Dockerfile, custom image, nginx container
