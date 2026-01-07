@@ -22,3 +22,5 @@
 - Docker basics – images, containers, first run
 ##Day 9
 - Dockerfile, custom image, nginx container
+##Day 10
+-  Docker lifecycle, logs, volumes, data persistence
