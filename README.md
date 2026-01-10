@@ -24,3 +24,6 @@
 - Dockerfile, custom image, nginx container
 ##Day 10
 -  Docker lifecycle, logs, volumes, data persistence
+
+##Day 11
+ - Docker Compose – multi-container setup, services, logs
